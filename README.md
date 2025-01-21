@@ -4,5 +4,5 @@
   <i>Entering the world of technology, learning and developing.</i><br><br>
   <i>Hub focused on learning on the "SENAC Tatuapé" course, technology and others... <br>
 Also future planning, things I like, personal development and other things...<br><br>
-  <i><b>#IT #Technology #senactat</b></i>
+  <i><b>#TI #Tecnologia #senactat</b></i>
 </div>
